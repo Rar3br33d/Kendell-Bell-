@@ -1,0 +1,7 @@
+{
+  "name": "Zodiac Luck & Magic",
+  "description": "Discover your celestial lucky numbers and generate custom AI-powered mystic charms with live image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
